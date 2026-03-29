@@ -8,8 +8,8 @@ condition “Hyperemesis gravidarum” from MoBA (Norwegian Mother, Father, and 
 - Research about the application topic and conceptualization
 - Data exploration and data processing (MOBA)
 - Story design
-- Realization of a web-based prototype using an individual human character
-  using data storytelling, illustration, and animations
+- Realization of a web-based prototype using an individual human character, 
+  data storytelling, illustration, and animations
 
 “Extracting Factors for Emotional Engagement in the Communication of Hyperemesis Gravidarum” 
 (Spring Semester 2024, University of Bergen)
