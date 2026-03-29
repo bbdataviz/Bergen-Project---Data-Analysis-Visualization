@@ -3,7 +3,7 @@
 
 The context of this study is the application of human-centered visualization design 
 processes to tell personalized human stories from data with a case study for the 
-condition “Hyperemesis gravidarum” from MoBA (Norwegian Mother, Father, and Child Study).
+condition “Hyperemesis gravidarum” (HG) from MoBA (Norwegian Mother, Father, and Child Study).
 
 - Research about the application topic and conceptualization
 - Data exploration and data processing (MOBA)
