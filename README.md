@@ -18,5 +18,5 @@ condition “Hyperemesis gravidarum” (HG) from MoBA (Norwegian Mother, Father,
 - UX testing during the development process with former HG patients, an HG domain expert (Jone Trovik),
   and participants from the general public
 - Refinement of both prototypes
-- Conceptual ideas for a final study design using biometric sensors (Electrodermal Activity, Eye-Tracking)
+- Conceptual ideas for a final study design using biometric sensors (Electrodermal Activity, Eye-Tracking) -> Master's Thesis
 
