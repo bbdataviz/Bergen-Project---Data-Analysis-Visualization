@@ -1,5 +1,5 @@
-** “Visualizing untold stories through a human lens” ** 
-* Autumn Semester 2023, University of Bergen *
+**“Visualizing untold stories through a human lens”** 
+*Autumn Semester 2023, University of Bergen*
 
 The context of this study is the application of human-centered visualization design 
 processes to tell personalized human stories from data with a case study for the 
